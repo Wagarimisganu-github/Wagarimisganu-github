@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on **Network Security Engineer**
 
 - 🌱 I’m currently learning **Msc Computer Science**
--  **Certified in Cyber security** From ISC2
--  Graduated in ** 
+- I'M **Certified in Cyber security** From **ISC2**
+-  Graduated in **AICaarerEssentials** From **ALX Africa**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
 
