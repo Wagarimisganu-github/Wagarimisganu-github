@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Msc Computer Science**
 - I'M **Certified in Cyber security** From **ISC2**
+-  I'M **Certified in Ethical Hacker** From **Cisco Networking academy**
 -  Graduated in **AICaarerEssentials** From **ALX Africa**
 
 - 👯 I’m looking to collaborate on **Cyber Security**
